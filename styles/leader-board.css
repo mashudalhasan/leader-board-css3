@@ -236,7 +236,16 @@ hr {
     .nav-container {
         width: 100%;
     }
+    
+    .logo {
+        gap: 10px;
+        margin-left: 0px;
+    }
 
+    .menu {
+        gap: 15px;
+        margin-left: 20px;
+    }
     .container {
         width: 70%;
     }
